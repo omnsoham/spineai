@@ -1,0 +1,5 @@
+Application: 
+Novel method for classifying spine fractures
+
+Goal: 
+Find abnormalities in ct scans of spine with highest accuracy
